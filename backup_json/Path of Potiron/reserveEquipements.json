@@ -1,0 +1,256 @@
+{
+    "Items": [
+        {
+            "name": "Iron Armor",
+            "type": 2,
+            "hpValue": 150,
+            "armorValue": 5,
+            "strengthValue": 0,
+            "magicValue": 0,
+            "id": "azedsfdsfgdf"
+        },
+        {
+            "name": "Crystal",
+            "type": 3,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 0,
+            "magicValue": 5,
+            "id": "702aer8d4bc75z4e2eb611df035f70bfb2"
+        },
+        {
+            "name": "",
+            "type": 0,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 0,
+            "magicValue": 0,
+            "id": ""
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "30005b6b9d7b4a3c99fb78d46d22e600"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "254b5373a5234f108a849424898373bb"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "80cf411088ab40a5bae216c1e9c5da8e"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "2259999c37fe4e49b3ea091b5c7fedea"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "ad8039ed54504b7488c027ad7ba405fe"
+        },
+        {
+            "name": "Iron Armor",
+            "type": 2,
+            "hpValue": 150,
+            "armorValue": 5,
+            "strengthValue": 0,
+            "magicValue": 0,
+            "id": "702a8d4bc75f4e2eb6rez11df035f70bfb2"
+        },
+        {
+            "name": "Crystal",
+            "type": 3,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 0,
+            "magicValue": 5,
+            "id": "zergf65g7h4698edt4"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "be9a3d033e504de68e505b9ba0f6c694"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "b9c74fa74f794f95956f8cc10098d786"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "0bba5d5923724e609a2adb4338a61e8c"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "ae2abf4247104add82e08e7098a9f68c"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "fdf9a0157cd44e8bb663d6af6fcdd1bd"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "366d46ca87854d4c904320e1faada55a"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "b679df81c77a4af5ae5ff6f749051071"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "e7c2617a35ae464d8e6ebca2ccc7adaf"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "3111c7aefb4647728259e9ec69eeb66c"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "d6f0cf09ad0f4757b216c3d8d400721e"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "09a7b8cee640447f8b699d539b57f895"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "aa0da9eb15e64c6795a892a9689c3c9d"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "8b178ad222aa454fa58eb88c83b14b90"
+        },
+        {
+            "name": "",
+            "type": 0,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 0,
+            "magicValue": 0,
+            "id": ""
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "c45afbe8ce8740508573fbf1dbe219b2"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "17b70efebffb4899be4439c99c98e9a3"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "fecd77d72eda4b0ca5d2935091ee8a71"
+        },
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0,
+            "id": "cabba96ce0a045e7991a5c9140204771"
+        }
+    ]
+}

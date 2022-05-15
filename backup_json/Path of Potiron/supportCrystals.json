@@ -1,0 +1,44 @@
+{
+     "Items": [
+        {
+            "id" : "0",
+            "name": "none",
+            "effectEnum": "None",
+            "types": []},
+        {
+        "id" : "1",
+        "name": "Multiple projectiles",
+        "effectEnum": "MultipleProjectile",
+        "types": [
+            "Projectile"
+        ]},
+        {
+        "id" : "2",
+        "name": "Damage boost",
+        "effectEnum": "DamageBoost",
+        "types": [
+            "Projectile",
+            "MeleeAOE",
+            "SpellZone"
+        ]
+        },
+        {
+        "id" : "3",
+        "name": "Speed Boost",
+        "effectEnum": "SpeedBoost",
+        "types": [
+            "Projectile",
+            "MeleeAOE"
+        ]
+        },
+        {
+        "id" : "4",
+        "name": "Repeat Attack",
+        "effectEnum": "RepeatAttack",
+        "types": [
+            "Projectile",
+            "MeleeAOE"
+        ]
+        }
+    ]
+}

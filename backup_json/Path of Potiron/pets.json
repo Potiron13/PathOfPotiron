@@ -1,0 +1,210 @@
+{
+    "Items": [
+        {
+            "id": "70b3d410163444cd9e27108ef841a8ee",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "4"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "2"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 14,
+            "defense": 11,
+            "health": 2232,
+            "magic": 5,
+            "level": 22,
+            "experienceGiven": 1,
+            "currentExperience": 701,
+            "experienceForNextLevel": 223,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "f0617a3716c943dd873ce3773e04650f",
+            "name": "Turtle",
+            "abilities": [
+                {
+                    "name": "hit",
+                    "type": "Attack",
+                    "cooldown": 2.0,
+                    "castTime": 1.0,
+                    "range": 3.0,
+                    "tier": 0,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                },
+                {
+                    "name": "thorns",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "",
+                    "effect": "Reflect",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                },
+                {
+                    "name": "strengthaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 20.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "strength",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "strengthboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "strength",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "2"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 11,
+            "defense": 9,
+            "health": 1020,
+            "magic": 5,
+            "level": 10,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 103,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        }
+    ]
+}

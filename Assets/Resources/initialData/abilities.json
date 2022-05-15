@@ -1,0 +1,194 @@
+ {"Items": [
+    {        
+        "name": "laser",
+        "cooldown": 2.0,
+        "castTime": 1.0,
+        "range": 10.0,
+        "type": "Beam",
+        "tier": 1
+    },
+    {        
+        "name": "fireball",
+        "cooldown": 2.0,
+        "castTime": 1.0,
+        "range": 8.0,
+        "type": "Projectile",
+        "tier": 1
+    },
+    {        
+        "name": "windblade",
+        "cooldown": 1.0,
+        "castTime": 1.0,
+        "range": 4.0,
+        "type": "Beam",
+        "tier": 1
+    },
+    {        
+        "name": "lowerfireball",
+        "cooldown": 4.0,
+        "castTime": 1.0,
+        "range": 8.0,
+        "type": "Projectile",
+        "tier": 0
+    },    
+    {
+        "name": "slame",
+        "cooldown": 2.0,
+        "castTime": 1.0,
+        "range": 4.0,
+        "type": "MeleeAOE",
+        "tier": 1
+    },    
+    {
+        "name": "hit",
+        "cooldown": 1.0,
+        "castTime": 1.0,
+        "range": 4.0,
+        "type": "Attack",
+        "tier": 0
+    },
+    {
+        "name": "firestorm",
+        "cooldown": 10.0,
+        "castTime": 1.0,
+        "range": 3.0,
+        "type": "SpellAOE",
+        "tier": 2
+    },
+    {
+        "name": "firedragon",
+        "cooldown": 10.0,
+        "castTime": 1.0,
+        "range": 3.0,
+        "type": "SpellAOE",
+        "tier": 2
+    },
+    {
+        "name": "teleport",
+        "cooldown": 2.0,
+        "castTime": 1.0,
+        "range": 15.0,
+        "type": "Travel",
+        "tier": 0
+    },
+    {
+        "name": "magicboost",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 0.0,
+        "type": "Passif",
+        "effect": "Boost",
+        "attribute": "magic",
+        "value": 100,
+        "tier": 0
+    },
+    {
+        "name": "strengthboost",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 0.0,
+        "type": "Passif",
+        "effect": "Boost",
+        "attribute": "strength",
+        "value": 100,
+        "tier": 0
+    },
+    {
+        "name": "defenseboost",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 0.0,
+        "type": "Passif",
+        "attribute": "defense",
+        "effect": "Boost",
+        "value": 100,
+        "tier": 0
+    },  
+    {
+        "name": "berserk",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 0.0,
+        "type": "Passif",
+        "effect": "Cooldown",
+        "value": 3,
+        "tier": 0
+    },    
+    {
+        "name": "thorns",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 0.0,
+        "type": "Passif",
+        "effect": "Reflect",        
+        "value": 100,
+        "tier": 0
+    },    
+    {
+        "name": "magicaura",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 20.0,
+        "type": "Aura",
+        "attribute": "magic",
+        "value": 100,
+        "tier": 0
+    },    
+    {
+        "name": "strengthaura",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 20.0,
+        "type": "Aura",
+        "attribute": "strength",
+        "value": 100,
+        "tier": 0
+    },    
+    {
+        "name": "defenseaura",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 10.0,
+        "type": "Aura",
+        "attribute": "defense",
+        "value": 100,
+        "tier": 0
+    },      
+    {
+        "name": "speedaura",
+        "cooldown": 0.0,
+        "castTime": 0.0,
+        "range": 10.0,
+        "type": "Aura",
+        "attribute": "speed",
+        "value": 5,
+        "tier": 0
+    },      
+    {
+        "name": "bleed",
+        "cooldown": 2.0,
+        "castTime": 0.0,
+        "range": 4.0,
+        "type": "MeleeAOE",
+        "tier": 2
+    },      
+    {
+        "name": "roots",
+        "cooldown": 5.0,
+        "castTime": 0.0,
+        "range": 10.0,
+        "type": "MeleeAOE",
+        "tier": 2,
+        "effect": "Stop"
+    },
+    {
+        "name": "lowerheal",
+        "cooldown": 10.0,
+        "castTime": 0.0,
+        "range": 3.0,
+        "type": "SpellAOE",
+        "effect": "Heal",
+        "value": 10,
+        "tier": 2
+    }
+]}

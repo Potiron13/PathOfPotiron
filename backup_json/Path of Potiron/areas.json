@@ -1,0 +1,79 @@
+{
+    "Items": [
+        {
+            "name": "fire",
+            "areas": [
+                {
+                    "name": "Dust",
+                    "packSize": 8,
+                    "packCount": 40,
+                    "lineCount": 0,
+                    "level": 5,
+                    "monsters": [
+                        "SlimeLower",
+                        "TurtleLower"
+                    ],
+                    "boss": "SlimeBoss",
+                    "petLoot": "Slime",
+                    "petLootLevel": 5,
+                    "equipementLoot": "",
+                    "done": true
+                },
+                {
+                    "name": "Lava",
+                    "packSize": 10,
+                    "packCount": 40,
+                    "lineCount": 0,
+                    "level": 10,
+                    "monsters": [
+                        "TurtleLower"
+                    ],
+                    "boss": "TurtleBoss",
+                    "petLoot": "Turtle",
+                    "petLootLevel": 10,
+                    "equipementLoot": "Iron Sword",
+                    "done": true
+                },
+                {
+                    "name": "Volcano",
+                    "packSize": 1,
+                    "packCount": 1,
+                    "lineCount": 0,
+                    "level": 15,
+                    "monsters": [
+                        "SlimeLower",
+                        "TurtleLower"
+                    ],
+                    "boss": "LowerDragon",
+                    "petLoot": "Turtle",
+                    "petLootLevel": 15,
+                    "equipementLoot": "Iron Sword",
+                    "done": false
+                }
+            ],
+            "done": true
+        },
+        {
+            "name": "ice",
+            "areas": [
+                {
+                    "name": "Meadow",
+                    "packSize": 8,
+                    "packCount": 10,
+                    "lineCount": 0,
+                    "level": 20,
+                    "monsters": [
+                        "LangsatLower",
+                        "ChiliLower"
+                    ],
+                    "boss": "SlimeBoss",
+                    "petLoot": "Eggy",
+                    "petLootLevel": 15,
+                    "equipementLoot": "",
+                    "done": true
+                }
+            ],
+            "done": true
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Items": [
+        {
+            "name": "Iron Sword",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 5,
+            "magicValue": 0
+        },
+        {
+            "name": "Iron Armor",
+            "type": 2,
+            "hpValue": 150,
+            "armorValue": 5,
+            "strengthValue": 0,
+            "magicValue": 0
+        },
+        {
+            "name": "Crystal",
+            "type": 3,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 0,
+            "magicValue": 5
+        }
+    ]
+}

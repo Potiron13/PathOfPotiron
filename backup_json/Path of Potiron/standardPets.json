@@ -1,0 +1,230 @@
+{
+    "Items": [
+        {       
+            "name": "Potiron",
+            "abilities" : [
+                "fireball"
+            ],
+            "magic" : 20,
+            "hp" : 5000,
+            "strength" : 10,             
+            "defense" : 10,   
+            "type": "mage",
+            "experienceGieven" : 10            
+        },
+        {       
+            "name": "Slime",
+            "abilities" : [
+                "fireball",
+                "magicboost",
+                "magicaura"          
+            ],
+            "magic" : 20,
+            "hp" : 5000,
+            "strength" : 10,     
+            "defense" : 10,           
+            "type": "mage",
+            "experienceGieven" : 10
+        },
+        {
+            "name": "Turtle",
+            "abilities" : [
+                "hit",
+                "thorns",
+                "strengthaura",
+                "strengthboost"
+            ],  
+            "magic" : 1,
+            "hp" : 5000,
+            "strength" : 15,
+            "defense" : 10,
+            "type": "warrior",
+            "experienceGieven" : 15
+         },
+         {
+             "name": "Chili",
+             "abilities" : [
+                 "bleed",
+                 "strengthboost",
+                 "berserk"
+             ],
+             "magic" : 1,
+             "hp" : 5000,
+             "strength" : 15,
+             "defense" : 10,
+             "type": "warrior",
+             "experienceGieven" : 15
+          },
+          {
+              "name": "Eggy",
+              "abilities" : [
+                  "windblade",
+                  "defenseboost",
+                  "speedaura"
+              ],
+              "magic" : 1,
+              "hp" : 5000,
+              "strength" : 15,
+              "defense" : 10,
+              "type": "warrior",
+              "experienceGieven" : 15
+           },
+           {
+               "name": "Kiwi",
+               "abilities" : [
+                   "hit",
+                   "iceball",
+                   "slame"
+               ],
+               "magic" : 1,
+               "hp" : 5000,
+               "strength" : 15,
+               "defense" : 10,
+               "type": "warrior",
+               "experienceGieven" : 15
+            },
+            {
+                "name": "Langsat",
+                "abilities" : [
+                    "roots",
+                    "magicboost",
+                    "teleport"
+                ],
+                "magic" : 1,
+                "hp" : 5000,
+                "strength" : 15,
+                "defense" : 10,
+                "type": "warrior",
+                "experienceGieven" : 15
+             },         
+        {       
+            "name": "SlimeLower",
+            "abilities" : [
+                "lowerfireball"
+            ],
+            "magic" : 1,
+            "hp" : 10,
+            "strength" : 1,           
+            "defense" : 1,     
+            "type": "mage",
+            "experienceGieven" : 1,
+            "craftingLootId" : "1"
+        },
+        {
+            "name": "TurtleLower",
+            "abilities" : [
+                "hit",
+                "thorns",
+                "strengthaura",
+                "strengthboost"
+            ],
+            "magic" : 1,
+            "hp" : 10,
+            "defense" : 1,     
+            "strength" : 2,
+            "type": "warrior",
+            "experienceGieven" : 1,
+            "craftingLootId" : "2"
+         },         
+         {       
+             "name": "ChiliLower",
+             "abilities" : [
+                "bleed",
+                "strengthboost",
+                "berserk"
+             ],
+             "magic" : 1,
+             "hp" : 10,
+             "strength" : 1,           
+             "defense" : 1,     
+             "type": "warrior",
+             "experienceGieven" : 1,
+             "craftingLootId" : "1"
+         },
+         {       
+             "name": "KiwiLower",
+             "abilities" : [
+                 "lowerfireball"
+             ],
+             "magic" : 1,
+             "hp" : 10,
+             "strength" : 1,           
+             "defense" : 1,     
+             "type": "mage",
+             "experienceGieven" : 1,
+             "craftingLootId" : "1"
+         },         
+         {       
+             "name": "LangsatLower",
+             "abilities" : [
+                 "roots",
+                 "magicboost",
+                 "teleport"
+             ],
+             "magic" : 1,
+             "hp" : 10,
+             "strength" : 1,           
+             "defense" : 1,     
+             "type": "mage",
+             "experienceGieven" : 1,
+             "craftingLootId" : "1"
+         },         
+         {       
+             "name": "EggyLower",
+             "abilities" : [
+                "windblade",
+                "defenseboost",
+                "speedaura"
+             ],
+             "magic" : 1,
+             "hp" : 10,
+             "strength" : 1,           
+             "defense" : 1,     
+             "type": "mage",
+             "experienceGieven" : 1,
+             "craftingLootId" : "1"
+         },
+        {
+            "name": "TurtleBoss",
+            "abilities" : [
+                "hit",
+                "slame",
+                "iceball"
+            ],
+            "magic" : 1,
+            "defense" : 10,     
+            "hp" : 1000,
+            "strength" : 7,
+            "type": "warrior",
+            "experienceGieven" : 10
+         },
+         {
+             "name": "SlimeBoss",
+             "abilities" : [
+                 "lowerfireball",
+                 "laser"
+             ],
+             "magic" : 10,
+             "hp" : 1000,
+             "strength" : 5,
+             "defense" : 10,     
+             "type": "mage",
+             "experienceGieven" : 10
+          },
+          {
+              "name": "LowerDragon",
+              "abilities" : [
+                  "hit",
+                  "fireball",
+                  "firedragon",
+                  "magicaura"
+              ],
+              "magic" : 10,
+              "hp" : 1000,
+              "strength" : 5,
+              "defense" : 10,     
+              "type": "mage",
+              "experienceGieven" : 10
+           }
+    ]
+}

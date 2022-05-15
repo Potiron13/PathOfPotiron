@@ -1,0 +1,18 @@
+{
+    "Items": [
+        {
+            "id": "1",
+            "name": "Lower offense",
+            "effect": "offense",
+            "tier": 1,
+            "count": 3977
+        },
+        {
+            "id": "2",
+            "name": "Lower defense",
+            "effect": "defense",
+            "tier": 1,
+            "count": 1171
+        }
+    ]
+}

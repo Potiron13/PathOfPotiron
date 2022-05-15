@@ -1,0 +1,87 @@
+{
+    "id": "ac1f1d831e844c6f832665ea2d51e7f6",
+    "name": "Potiron",
+    "abilities": [
+        {
+            "name": "berserk",
+            "type": "Passif",
+            "cooldown": 0.0,
+            "castTime": 0.0,
+            "range": 0.0,
+            "tier": 0,
+            "value": 10,
+            "attribute": "",
+            "effect": "Cooldown",
+            "supportCrystals": [
+                "2",
+                "4",
+                "4",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "name": "roots",
+            "type": "MeleeAOE",
+            "cooldown": 5.0,
+            "castTime": 0.0,
+            "range": 10.0,
+            "tier": 2,
+            "value": 0,
+            "attribute": "",
+            "effect": "Stop",
+            "supportCrystals": [
+                "4",
+                "4"
+            ]
+        }
+    ],
+    "bonus": {
+        "strength": 0,
+        "defense": 0,
+        "health": 0,
+        "magic": 0
+    },
+    "weapon": {
+        "name": "Axe",
+        "type": 1,
+        "hpValue": 0,
+        "armorValue": 0,
+        "strengthValue": 15,
+        "magicValue": 0,
+        "id": "702a8d4bc75f4e2eb611df035f70bfb2"
+    },
+    "armor": {
+        "name": "Iron Armor",
+        "type": 2,
+        "hpValue": 150,
+        "armorValue": 5,
+        "strengthValue": 0,
+        "magicValue": 0,
+        "id": "702a8azezaze2eb6rez11df035f70bfb2"
+    },
+    "gem": {
+        "name": "Crystal",
+        "type": 3,
+        "hpValue": 0,
+        "armorValue": 0,
+        "strengthValue": 0,
+        "magicValue": 5,
+        "id": "702aer8d4bc75z4e2ytjugzer5f70bfb2"
+    },
+    "strength": 10,
+    "defense": 11,
+    "health": 2838,
+    "magic": 44,
+    "level": 28,
+    "experienceGiven": 1,
+    "currentExperience": 1466,
+    "experienceForNextLevel": 283,
+    "craftingMaterialLoot": {
+        "id": "",
+        "name": "",
+        "effect": "",
+        "tier": 0,
+        "count": 0
+    }
+}

@@ -1,0 +1,20 @@
+{
+     "Items": [
+        {
+            "id" : "0",
+            "name": "none",
+            "effectEnum": "None",
+            "types": []
+        },
+        {
+        "id" : "1",
+        "name": "Multiple projectiles",
+        "effectEnum": "MultipleProjectile"
+        },
+        {
+        "id" : "2",
+        "name": "Repeat Attack",
+        "effectEnum": "RepeatAttack"
+        }
+    ]
+}

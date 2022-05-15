@@ -1,0 +1,73 @@
+Feedbacks :
+	- Aggro tout le pack si un enemi est touché
+	- pb des montagnes
+	- tp par dessus une rivière
+	- déséquiper ses pets
+	- plantage écran de chargement
+	- trop dur le jeu
+	- Potiron devrait s'immobiliser apres avoir target un enemi	
+
+Refacto : 
+
+CLASS
+projectil
+	range, tier, cooldown
+beam
+	range, tier, cooldown
+spellAOE
+	range, tier, cooldown
+meleeAOE
+	range, tier, cooldown
+attack 
+	range, tier, cooldown
+================> UsableAbility
+
+aura
+	range, tier, attibute
+passif
+	tier, attibute
+
+
+INTERFACE
+damage/heal
+burst/dot
+movement/static
+
+CLASS
+character
+	INTERFACE
+	IJob
+
+CLASS
+warrior : IJob
+mage : IJob
+
+
+pour monter de niveau :
+	charcter.job.levelUp()
+
+
+CLASS
+playerControl : ICharacterControl collé sur les gameobjects des players
+monsterControl : ICharacterControl collé sur les gameobjects des monstres
+petControl : ICharacterControl collé sur les gameobjects des pets
+
+INTERFACE
+ICharacterControl
+	move()
+	useAbility()
+	...
+
+CLASS
+characterManager sur tous les gameobject de player/pet/monstre
+	ICharacterControl.move()
+	...
+
+
+
+
+
+
+
+ 
+

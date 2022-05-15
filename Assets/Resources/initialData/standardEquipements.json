@@ -1,0 +1,52 @@
+{
+    "Items": [
+        {
+            "name": "Wooden Staff",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 50,
+            "magicValue": 50
+        },        
+        {
+            "name": "Topaz Staff",
+            "type": 1,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 100,
+            "magicValue": 100
+        },
+        {
+            "name": "Wooden Armor",
+            "type": 2,
+            "hpValue": 0,
+            "armorValue": 100,
+            "strengthValue": 0,
+            "magicValue": 0
+        },        
+        {
+            "name": "Iron Armor",
+            "type": 2,
+            "hpValue": 0,
+            "armorValue": 300,
+            "strengthValue": 0,
+            "magicValue": 0
+        },
+        {
+            "name": "Emerald",
+            "type": 3,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 50,
+            "magicValue": 50
+        },
+        {
+            "name": "Ruby",
+            "type": 3,
+            "hpValue": 0,
+            "armorValue": 0,
+            "strengthValue": 100,
+            "magicValue": 100
+        }
+    ]
+}

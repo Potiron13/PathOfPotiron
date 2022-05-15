@@ -1,0 +1,34 @@
+{
+    "Items": [
+       {        
+           "pet1": "Slime",
+           "pet2": "Turtle",
+           "result": "Eggy"
+       },
+       {        
+        "pet1": "Slime",
+        "pet2": "Eggy",
+        "result": "Chili"
+       },
+       {        
+        "pet1": "Eggy",
+        "pet2": "Turtle",
+        "result": "Chili"
+       },
+       {        
+        "pet1": "Eggy",
+        "pet2": "Chili",
+        "result": "Kiwi"
+       },
+       {        
+        "pet1": "Kiwi",
+        "pet2": "Chili",
+        "result": "Eggy"
+       },
+       {
+        "pet1": "Kiwi",
+        "pet2": "Turtle",
+        "result": "Dragon"
+       }
+    ]
+}

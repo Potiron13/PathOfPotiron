@@ -1,0 +1,132 @@
+{
+    "Items": [
+        {
+            "name": "fire",
+            "loadingscreen": "red",
+            "areas": [
+                {
+                    "name": "SlimeIsland",
+                    "packSize": 4,
+                    "packCount": 14,
+                    "lineCount": 0,
+                    "level": 5,
+                    "monsters": [
+                        "SlimeLower",
+                        "TurtleLower"
+                    ],
+                    "bosses": [
+                        "SlimeBoss"
+                    ],
+                    "petLoot": "Slime",
+                    "petLootLevel": 5,
+                    "equipementLoot": "Wooden Armor",
+                    "tier" : 0,
+                    "done": false
+                },
+                {
+                    "name": "TurtleIsland",
+                    "packSize": 6,
+                    "packCount": 14,
+                    "lineCount": 0,
+                    "level": 10,
+                    "monsters": [
+                        "SlimeLower",
+                        "TurtleLower"
+                    ],
+                    "bosses": [
+                        "TurtleBoss"
+                    ],
+                    "petLoot": "Slime",
+                    "petLootLevel": 10,
+                    "equipementLoot": "Wooden Staff",
+                    "tier" : 0,
+                    "done": false
+                },
+                {
+                    "name": "DragonIsland",
+                    "packSize": 0,
+                    "packCount": 0,
+                    "lineCount": 0,
+                    "level": 15,
+                    "monsters": [],
+                    "bosses": [
+                        "SlimeBoss",
+                        "TurtleBoss",
+                        "DragonBoss"
+                    ],
+                    "petLoot": "Turtle",
+                    "petLootLevel": 15,
+                    "equipementLoot": "Emerald",
+                    "tier" : 0,
+                    "done": false
+                }
+            ],
+            "done": false
+        },
+        {
+            "name": "ice",
+            "loadingscreen": "green",
+            "areas": [
+                {
+                    "name": "EggyIsland",
+                    "packSize": 10,
+                    "packCount": 14,
+                    "lineCount": 0,
+                    "level": 20,
+                    "monsters": [
+                        "ChiliLower",
+                        "EggyLower"
+                    ],
+                    "bosses": [
+                        "EggyBoss"
+                    ],
+                    "petLoot": "Eggy",
+                    "petLootLevel": 20,
+                    "equipementLoot": "Topaz Staff",
+                    "tier" : 0,
+                    "done": false
+                },
+                {
+                    "name": "KiwiIsland",
+                    "packSize": 10,
+                    "packCount": 14,
+                    "lineCount": 0,
+                    "level": 25,
+                    "monsters": [
+                        "ChiliLower",
+                        "ChiliLower",
+                        "ChiliLower",
+                        "KiwiLower"
+                    ],
+                    "bosses": [
+                        "KiwiBoss"
+                    ],
+                    "petLoot": "Kiwi",
+                    "petLootLevel": 25,
+                    "equipementLoot": "Iron Armor",
+                    "tier" : 0,
+                    "done": false
+                },
+                {
+                    "name": "ChiliIsland",
+                    "packSize": 0,
+                    "packCount": 0,
+                    "lineCount": 0,
+                    "level": 30,
+                    "monsters": [],
+                    "bosses": [
+                        "ChiliBoss",
+                        "EggyBoss",
+                        "KiwiBoss"
+                    ],
+                    "petLoot": "Chili",
+                    "petLootLevel": 30,
+                    "equipementLoot": "Ruby",
+                    "tier" : 0,
+                    "done": false
+                }
+            ],
+            "done": false
+        }
+    ]
+}

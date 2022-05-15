@@ -1,0 +1,570 @@
+{
+    "Items": [
+        {
+            "id": "431b66e1c441402caf3534879335f895",
+            "name": "Slime",
+            "abilities": [
+                {
+                    "name": "strengthaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 20.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "strength",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3",
+                        "2",
+                        "3",
+                        "4",
+                        "1"
+                    ]
+                },
+                {
+                    "name": "magicboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "magic",
+                    "effect": "",
+                    "supportCrystals": [
+                        "4"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 9,
+            "defense": 10,
+            "health": 2131,
+            "magic": 34,
+            "level": 21,
+            "experienceGiven": 1,
+            "currentExperience": 733,
+            "experienceForNextLevel": 209,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "ec0ad31cfab9466490a6eb3e0cb4d390",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "4"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "4"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 12,
+            "defense": 10,
+            "health": 1525,
+            "magic": 5,
+            "level": 15,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 149,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "c8c17641a36240bb83e2d0a7b2be2d40",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 12,
+            "defense": 10,
+            "health": 1525,
+            "magic": 5,
+            "level": 15,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 149,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "2400391d1aac42c0b62717ac6c9b8ec1",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "2"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 12,
+            "defense": 10,
+            "health": 1525,
+            "magic": 5,
+            "level": 15,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 149,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "37efe5acc196469082707ece3ad53995",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "4"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 12,
+            "defense": 10,
+            "health": 1525,
+            "magic": 5,
+            "level": 15,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 149,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        },
+        {
+            "id": "313321b0fe2b4b818798723826ee4fb6",
+            "name": "Eggy",
+            "abilities": [
+                {
+                    "name": "windblade",
+                    "type": "Projectile",
+                    "cooldown": 3.0,
+                    "castTime": 1.0,
+                    "range": 4.0,
+                    "tier": 1,
+                    "value": 0,
+                    "attribute": "",
+                    "effect": "",
+                    "supportCrystals": [
+                        "0"
+                    ]
+                },
+                {
+                    "name": "defenseboost",
+                    "type": "Passif",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 0.0,
+                    "tier": 0,
+                    "value": 10,
+                    "attribute": "defense",
+                    "effect": "Boost",
+                    "supportCrystals": [
+                        "2"
+                    ]
+                },
+                {
+                    "name": "speedaura",
+                    "type": "Aura",
+                    "cooldown": 0.0,
+                    "castTime": 0.0,
+                    "range": 10.0,
+                    "tier": 0,
+                    "value": 5,
+                    "attribute": "speed",
+                    "effect": "",
+                    "supportCrystals": [
+                        "3"
+                    ]
+                }
+            ],
+            "bonus": {
+                "strength": 0,
+                "defense": 0,
+                "health": 0,
+                "magic": 0
+            },
+            "weapon": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "armor": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "gem": {
+                "name": "",
+                "type": 0,
+                "hpValue": 0,
+                "armorValue": 0,
+                "strengthValue": 0,
+                "magicValue": 0,
+                "id": ""
+            },
+            "strength": 12,
+            "defense": 10,
+            "health": 1525,
+            "magic": 5,
+            "level": 15,
+            "experienceGiven": 1,
+            "currentExperience": 0,
+            "experienceForNextLevel": 149,
+            "craftingMaterialLoot": {
+                "id": "",
+                "name": "",
+                "effect": "",
+                "tier": 0,
+                "count": 0
+            }
+        }
+    ]
+}
